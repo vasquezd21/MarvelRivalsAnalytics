@@ -1,0 +1,1 @@
+/Users/dmv62/Projects/MarvelRivalsAnalytics/venv/bin/python -m pip freeze > requirements.txt
