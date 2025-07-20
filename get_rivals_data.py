@@ -7,7 +7,7 @@ import json
 # THIS MUST BE ADJUSTED BY THE USER BASED ON THEIR MCP SERVER'S OUTPUT
 MCP_API_BASE_URL = "http://localhost:3000"
 # User's exact in-game Marvel Rivals Name and Battletag
-YOUR_MARVEL_RIVALS_ID = "YourPlayerName#YourTag" # Example: "IronManFan#1234"
+YOUR_MARVEL_RIVALS_ID = "Jawnjawnjawn" # Example: "IronManFan#1234"
 
 # --- Function to fetch player match history ---
 def get_player_match_history(player_id):
